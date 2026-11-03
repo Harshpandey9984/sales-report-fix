@@ -1,0 +1,7 @@
+region,product,quantity,unit_price,status
+North,Widget,2,10.50,shipped
+north ,Gadget,1,5.25,Shipped
+South,Widget,3,10.50,CANCELLED
+South,Gizmo,4,2.00,pending
+,,,,
+East,Widget,1,10.50,cancelled
